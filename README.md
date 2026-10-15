@@ -2,9 +2,9 @@
 
 # Hi, I'm Bibek Kumar Gupta 👋
 
-### Mobile Developer · Android (Kotlin) & React Native · AI-curious engineer
+### Mobile Developer · Android & React Native · Full-Stack · AI/ML
 
-I build production mobile apps, and I also build and properly test the ML behind them.
+I build production mobile apps, full-stack web platforms, and the ML behind them, and I test all three properly.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/me-bibek-gupta)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phenomenalbibek@gmail.com)
@@ -157,7 +157,7 @@ I showed that my original **99.8%** result came from data leakage: 93.8% of the 
 
 <div align="center">
 
-📫 **Open to Mobile / Android / React Native roles in the UK, EU, Gulf & Asia**, happy to relocate.
+📫 **Open to Mobile, Full-Stack and AI/ML engineering roles in the UK, EU, Gulf & Asia.** Always keen to learn and grow, and happy to relocate.
 [LinkedIn](https://linkedin.com/in/me-bibek-gupta) · [phenomenalbibek@gmail.com](mailto:phenomenalbibek@gmail.com)
 
 </div>
