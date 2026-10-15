@@ -27,7 +27,7 @@ I build production mobile apps, and I also build and properly test the ML behind
 
 ### 🛠 Tech stack
 
-**Mobile**
+**Mobile**<br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white)
@@ -35,14 +35,14 @@ I build production mobile apps, and I also build and properly test the ML behind
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
 
-**Languages**
+**Languages**<br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Architecture & state**
+**Architecture & state**<br>
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-555555?style=flat)
 ![MVVM / MVI](https://img.shields.io/badge/MVVM_/_MVI-555555?style=flat)
 ![Coroutines & Flow](https://img.shields.io/badge/Coroutines_&_Flow-7F52FF?style=flat&logo=kotlin&logoColor=white)
@@ -50,7 +50,7 @@ I build production mobile apps, and I also build and properly test the ML behind
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat)
 
-**Backend & web**
+**Backend & web**<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -58,14 +58,14 @@ I build production mobile apps, and I also build and properly test the ML behind
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
 
-**ML**
+**ML**<br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![ML Kit](https://img.shields.io/badge/Google_ML_Kit-4285F4?style=flat&logo=google&logoColor=white)
 
-**Tooling**
+**Tooling**<br>
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
@@ -80,7 +80,7 @@ I build production mobile apps, and I also build and properly test the ML behind
 <tr>
 <td width="50%" valign="top">
 
-**🩺 eCare: AI-Assisted Telemedicine** · *2026*
+**🩺 eCare: AI-Assisted Telemedicine** · *2026*<br>
 Patients describe symptoms or upload a skin photo. AI triage sends them to the right verified doctor for a **WebRTC video consult**.
 - Fine-tuned **DistilBERT**: **~97%** accuracy (macro-F1 0.97) vs **54%** for the old NER pipeline
 - **ResNet-50** skin-image model: 0.846 accuracy on HAM10000, with Grad-CAM checks
@@ -91,7 +91,7 @@ Patients describe symptoms or upload a skin photo. AI triage sends them to the r
 </td>
 <td width="50%" valign="top">
 
-**🎓 Grinds360** · *Kotlin · Compose*
+**🎓 Grinds360** · *Kotlin · Compose*<br>
 Community learning platform, **[live on Google Play](https://play.google.com/store/apps/details?id=com.app.grinds) with 5,000+ downloads**.
 - Social newsfeed, course marketplace and real-time chat
 - **Stripe** in-app purchases with idempotent checkout
@@ -102,7 +102,7 @@ Community learning platform, **[live on Google Play](https://play.google.com/sto
 <tr>
 <td width="50%" valign="top">
 
-**📚 Mykademy** · *React Native · Expo · TypeScript*
+**📚 Mykademy** · *React Native · Expo · TypeScript*<br>
 Multi-tenant e-learning app for many organisations (at 0.Labs).
 - Real-time newsfeed (likes, comments, replies) over **Socket.IO**
 - Courses, bundles, events, certificates and an in-app course player
@@ -111,7 +111,7 @@ Multi-tenant e-learning app for many organisations (at 0.Labs).
 </td>
 <td width="50%" valign="top">
 
-**🛡 Life and Provide** · *Kotlin · Compose · ML Kit*
+**🛡 Life and Provide** · *Kotlin · Compose · ML Kit*<br>
 Insurance policy app (at 0.Labs).
 - **On-device ML Kit** extracts data from policy documents and photos
 - AI assistant streams replies **token by token over WebSocket** with Kotlin Flow
@@ -122,13 +122,13 @@ Insurance policy app (at 0.Labs).
 <tr>
 <td width="50%" valign="top">
 
-**📖 [bookfinder](https://github.com/bibekgupta07/bookfinder)** · *open source*
+**📖 [bookfinder](https://github.com/bibekgupta07/bookfinder)** · *open source*<br>
 Android book browser: Jetpack Compose, Clean Architecture, Hilt, Room favourites and the Google Books API.
 
 </td>
 <td width="50%" valign="top">
 
-**🏢 White-label app suite** · *Kotlin*
+**🏢 White-label app suite** · *Kotlin*<br>
 **3 enterprise client apps** from one codebase, using product flavors, a Material 3 theming engine and Remote Config feature flags. Per-client QA builds on every merge.
 
 </td>
@@ -139,7 +139,7 @@ Android book browser: Jetpack Compose, Clean Architecture, Hilt, Room favourites
 
 ### 📈 Impact highlights
 
-| | |
+| Result | How |
 |---|---|
 | 📉 **30%** fewer production crashes | Crashlytics-driven fixes in every release |
 | 📦 **5,000+** downloads | Grinds360 on Google Play |
