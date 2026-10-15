@@ -8,7 +8,8 @@ I build production mobile apps, full-stack web platforms, and the ML behind them
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/me-bibek-gupta)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phenomenalbibek@gmail.com)
-[![Google Play](https://img.shields.io/badge/Grinds360_on_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.app.grinds)
+[![Grinds360](https://img.shields.io/badge/Grinds360-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.app.grinds)
+[![SocialTies](https://img.shields.io/badge/SocialTies-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.alpas.socialties)
 ![Location](https://img.shields.io/badge/Kathmandu,_Nepal-Open_to_relocation-2ea44f?style=for-the-badge)
 
 </div>
@@ -18,7 +19,7 @@ I build production mobile apps, full-stack web platforms, and the ML behind them
 ### 🚀 About me
 
 - 📱 **Mobile Developer at 0.Labs** (since 2024). I build native **Android** apps (Kotlin, Jetpack Compose) and cross-platform **React Native** apps (Expo, TypeScript).
-- 🏪 Shipped apps on Google Play, including **Grinds360** with **5,000+ downloads**.
+- 🏪 **3 apps live on Google Play**: [Grinds360](https://play.google.com/store/apps/details?id=com.app.grinds) (5,000+ downloads), [SocialTies](https://play.google.com/store/apps/details?id=com.alpas.socialties) (1,000+, used by Irish GAA communities) and [Life & Provide](https://play.google.com/store/apps/details?id=com.app.android_lifeprovide).
 - 🧠 Rebuilt my final-year telemedicine project into an **AI triage platform**. A fine-tuned DistilBERT lifted free-text accuracy from **54% to ~97%**.
 - 🔬 I care about **honest evaluation**. I found and fixed a data-leakage problem in my own earlier result, and I report negative results rather than hide them.
 - 🎓 B.E. Computer Engineering, **NCIT, Pokhara University** (CGPA 3.59/4.00)
@@ -91,6 +92,17 @@ Patients describe symptoms or upload a skin photo. AI triage sends them to the r
 </td>
 <td width="50%" valign="top">
 
+**🏐 SocialTies** · *Kotlin · Jetpack Compose*<br>
+Branded community app for sport and community organisations in **Ireland**, including **Kilkenny GAA** and **Wicklow GAA**. **[Live on Google Play](https://play.google.com/store/apps/details?id=com.alpas.socialties) with 1,000+ downloads**.
+- Led the phased migration of a legacy XML app to **Jetpack Compose**, matching the existing design pixel for pixel
+- Built a **community switcher** so one app serves many organisations, each with its own branding
+- News, fixtures and results, chat, events and bookings, podcasts, single sign-on
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **🎓 Grinds360** · *Kotlin · Compose*<br>
 Community learning platform, **[live on Google Play](https://play.google.com/store/apps/details?id=com.app.grinds) with 5,000+ downloads**.
 - Social newsfeed, course marketplace and real-time chat
@@ -98,38 +110,32 @@ Community learning platform, **[live on Google Play](https://play.google.com/sto
 - Split into feature modules (auth, feed, courses, chat)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **📚 Mykademy** · *React Native · Expo · TypeScript*<br>
-Multi-tenant e-learning app for many organisations (at 0.Labs).
+Multi-tenant e-learning app for many organisations.
 - Real-time newsfeed (likes, comments, replies) over **Socket.IO**
 - Courses, bundles, events, certificates and an in-app course player
 - TanStack Query, Zustand, Zod, Jest tests, and GitHub Actions builds for each environment
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-**🛡 Life and Provide** · *Kotlin · Compose · ML Kit*<br>
-Insurance policy app (at 0.Labs).
+**🛡 Life & Provide** · *Kotlin · Compose · ML Kit*<br>
+AI insurance app, **[live on Google Play](https://play.google.com/store/apps/details?id=com.app.android_lifeprovide)**.
 - **On-device ML Kit** extracts data from policy documents and photos
 - AI assistant streams replies **token by token over WebSocket** with Kotlin Flow
 - Offline-first with Room; FCM renewal reminders
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **📖 [bookfinder](https://github.com/bibekgupta07/bookfinder)** · *open source*<br>
 Android book browser: Jetpack Compose, Clean Architecture, Hilt, Room favourites and the Google Books API.
 
-</td>
-<td width="50%" valign="top">
-
-**🏢 White-label app suite** · *Kotlin*<br>
-**3 enterprise client apps** from one codebase, using product flavors, a Material 3 theming engine and Remote Config feature flags. Per-client QA builds on every merge.
+<sub>Also: **white-label apps for 3 enterprise clients** from one Kotlin codebase (product flavors, Material 3 theming, Remote Config).</sub>
 
 </td>
 </tr>
@@ -142,7 +148,7 @@ Android book browser: Jetpack Compose, Clean Architecture, Hilt, Room favourites
 | Result | How |
 |---|---|
 | 📉 **30%** fewer production crashes | Crashlytics-driven fixes in every release |
-| 📦 **5,000+** downloads | Grinds360 on Google Play |
+| 📦 **3** apps live on Google Play | Grinds360 (5,000+), SocialTies (1,000+), Life & Provide |
 | 🏷 **3** enterprise white-label apps | One shared Kotlin codebase |
 | 🧪 **54% → 97%** triage accuracy | Replaced the NER pipeline with a fine-tuned DistilBERT |
 
