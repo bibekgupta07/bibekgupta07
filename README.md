@@ -18,7 +18,7 @@ I build production mobile apps, full-stack web platforms, and the ML behind them
 
 ### 🚀 About me
 
-- 📱 **Mobile Developer at 0.Labs** (since 2024). I build native **Android** apps (Kotlin, Jetpack Compose) and cross-platform **React Native** apps (Expo, TypeScript).
+- 📱 **Mobile Developer at O.Labs** (since 2024). I build native **Android** apps (Kotlin, Jetpack Compose) and cross-platform **React Native** apps (Expo, TypeScript).
 - 🏪 **3 apps live on Google Play**: [Grinds360](https://play.google.com/store/apps/details?id=com.app.grinds) (5,000+ downloads), [SocialTies](https://play.google.com/store/apps/details?id=com.alpas.socialties) (1,000+, used by Irish GAA communities) and [Life & Provide](https://play.google.com/store/apps/details?id=com.app.android_lifeprovide).
 - 🧠 Rebuilt my final-year telemedicine project into an **AI triage platform**. A fine-tuned DistilBERT lifted free-text accuracy from **54% to ~97%**.
 - 🔬 I care about **honest evaluation**. I found and fixed a data-leakage problem in my own earlier result, and I report negative results rather than hide them.
